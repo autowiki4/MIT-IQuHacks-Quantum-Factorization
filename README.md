@@ -69,5 +69,7 @@ In order to utilize the code you would need to obtain API key for QuantumRings.
 ✅ **Uses only 29 quantum gates for this limit**  
 ✅ **Extracts factors** `15727` and `13241` **accurately**  
 
+The attached `semiprimes.py` contains semiprimes you can use to test semiprimes on the code.
+
 ❌ **Quantum hardware noise can affect results**  
 ❌ **Performance depends on base selection for efficient factorization**  
