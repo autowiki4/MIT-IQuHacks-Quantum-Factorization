@@ -1,0 +1,5 @@
+numpy
+matplotlib
+QuantumRingsLib
+fractions
+scipy
