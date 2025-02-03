@@ -49,6 +49,15 @@ This implementation is based on concepts discussed in:
 which explores different quantum computational techniques.  
 The PDF **On_the_Various_Ways_of_Quantum_Implementation.pdf** is included in this repository.
 
+## Free Access to Best-in-class Simulation
+
+In order to utilize the code you would need to obtain API key for QuantumRings.
+
+1. Register for free at [www.QuantumRings.com](https://www.quantumrings.com)
+2. Confirm your email
+3. Select "Manage Keys" and you should have access to free API keys.
+4. Copy the key, and use it to start simulating massive circuits locally! **NB: Free API key grants 200 qubits only**
+
 ---
 
 ## **⚡ Performance & Limitations**
