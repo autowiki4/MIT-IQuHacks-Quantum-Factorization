@@ -49,6 +49,10 @@ This implementation is based on concepts discussed in:
 which explores different quantum computational techniques.  
 The PDF **On_the_Various_Ways_of_Quantum_Implementation.pdf** is included in this repository.
 
+### Setting Up the Environment
+
+This project includes a `requirements.txt` file that lists all the Python packages and their versions used in this project. You can use this file to recreate the exact environment required to run the code.
+
 ## Free Access to Best-in-class Simulation
 
 In order to utilize the code you would need to obtain API key for QuantumRings.
