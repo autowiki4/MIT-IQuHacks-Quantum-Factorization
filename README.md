@@ -1,4 +1,4 @@
-# MIT-IQuHacks-Quantum-Factorization
+# YQuantum-Quantum-Factorization
 
 # **Quantum Factorization Using Shor's Algorithm**
 
